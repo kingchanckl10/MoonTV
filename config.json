@@ -84,8 +84,9 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
-    },
-    "custom_category": [
+    }
+  },
+  "custom_category": [
     { "name": "熱門", "type": "movie", "query": "熱門" },
     { "name": "最新", "type": "movie", "query": "最新" },
     { "name": "經典", "type": "movie", "query": "經典" },
