@@ -112,5 +112,5 @@
     { "name": "日本動畫", "type": "tv", "query": "日本動畫" },
     { "name": "綜藝", "type": "tv", "query": "綜藝" },
     { "name": "紀錄片", "type": "tv", "query": "紀錄片" }
-  }
+  ]
 }
