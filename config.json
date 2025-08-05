@@ -84,6 +84,33 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
-    }
+    },
+    "custom_category": [
+    { "name": "熱門", "type": "movie", "query": "熱門" },
+    { "name": "最新", "type": "movie", "query": "最新" },
+    { "name": "經典", "type": "movie", "query": "經典" },
+    { "name": "豆瓣高分", "type": "movie", "query": "豆瓣高分" },
+    { "name": "冷門佳片", "type": "movie", "query": "冷門佳片" },
+    { "name": "華語", "type": "movie", "query": "華語" },
+    { "name": "歐美", "type": "movie", "query": "歐美" },
+    { "name": "韓國", "type": "movie", "query": "韓國" },
+    { "name": "日本", "type": "movie", "query": "日本" },
+    { "name": "動作", "type": "movie", "query": "動作" },
+    { "name": "喜劇", "type": "movie", "query": "喜劇" },
+    { "name": "愛情", "type": "movie", "query": "愛情" },
+    { "name": "科幻", "type": "movie", "query": "科幻" },
+    { "name": "懸疑", "type": "movie", "query": "懸疑" },
+    { "name": "恐怖", "type": "movie", "query": "恐怖" },
+    { "name": "治愈", "type": "movie", "query": "治愈" },
+    { "name": "熱門", "type": "tv", "query": "熱門" },
+    { "name": "美劇", "type": "tv", "query": "美劇" },
+    { "name": "英劇", "type": "tv", "query": "英劇" },
+    { "name": "韓劇", "type": "tv", "query": "韓劇" },
+    { "name": "日劇", "type": "tv", "query": "日劇" },
+    { "name": "國產劇", "type": "tv", "query": "國產劇" },
+    { "name": "港劇", "type": "tv", "query": "港劇" },
+    { "name": "日本動畫", "type": "tv", "query": "日本動畫" },
+    { "name": "綜藝", "type": "tv", "query": "綜藝" },
+    { "name": "紀錄片", "type": "tv", "query": "紀錄片" }
   }
 }
